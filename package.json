@@ -1,6 +1,7 @@
 {
-  "name": "react-demo-components",
-  "version": "0.0.0",
+  "name": "@dgimot/react-demo-components",
+  "version": "0.2.0",
+  "private": false,
   "description": "React demo components",
   "license": "MIT",
   "main": "dist/index.cjs.js",
